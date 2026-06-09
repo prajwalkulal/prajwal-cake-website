@@ -1,22 +1,19 @@
 # Beleniss Cake Website
 
-A static single-page bakery website built with HTML, CSS, JavaScript, and Bootstrap.
+A responsive single-page bakery website for **Beleniss** — featuring hero slider, menu, gallery, chef team, testimonials, and order form.
+
+## Live demo
+
+Open `WEB SDA/index.html` in your browser, or run a local server.
+
+## Tech stack
+
+- HTML5, CSS3, JavaScript
+- Bootstrap 4
+- jQuery, Owl Carousel, AOS animations
 
 ## Run locally
 
-Open `index.html` in your browser, or serve the folder:
-
 ```bash
+cd "WEB SDA"
 python -m http.server 8080
-```
-
-Then visit `http://localhost:8080`.
-
-## Project structure
-
-- `index.html` — main page
-- `style.css` — custom styles
-- `main.js` — carousels, animations, and form handling
-- `css/` and `js/` — third-party libraries
-- `images/` — site assets
-
